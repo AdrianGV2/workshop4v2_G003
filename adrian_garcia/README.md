@@ -3,7 +3,7 @@
 ## Ejecución de GitHub Actions
 
 ### 📸 Workflow ejecutándose
-![Workflow](Imagen1.png)
+Imagen1.png
 
 ### 📸 Resultado de tests
-![Tests](Imagen2.png)
+Imagen2.png
